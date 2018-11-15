@@ -24,7 +24,7 @@ Sử dụng các thuật toán khác nhau cho ra độ chính xác (MSE) như sa
 
 So sánh với cách dự đoán bằng phương pháp tính toán bình thường 
 
-$$ TrafficNow = \\frac{TrafficBefore1Week + TrafficBefore2Week + TrafficBefore3Week + TrafficBefore4Week + TrafficBefore5Week + TrafficBefore1Day}{6} $$
+$ TrafficNow = \\frac{TrafficBefore1Week + TrafficBefore2Week + TrafficBefore3Week + TrafficBefore4Week + TrafficBefore5Week + TrafficBefore1Day}{6} $
 
 Kêt quả: MSE = **370421.69**
 
